@@ -62,13 +62,6 @@
     .d-none {
         display: none;
     }
-    .position-relative {
-        position: relative;
-    }
-    .search-div {
-        position: absolute;
-        right: 0px;
-    }
  }
 
 
